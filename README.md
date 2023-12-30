@@ -1,4 +1,4 @@
-# e-Commerce JordanShoes
+# Login page
 
 Tela de Login responsiva feita com React e Tailwindcss seguindo o desafio 4 do figma da Codelândia, link: [Codelândia](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios)
 
